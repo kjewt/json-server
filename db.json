@@ -34,3 +34,73 @@
     "name": "typicode"
   }
 }
+{
+  "MyOffice": [
+    {
+      "id": 1,
+      "name": "더 공간A",
+      "locaion": "서울 테헤란로 14길 14-10",
+      "picture": [
+        "https://picsum.photos/320",
+        "https://picsum.photos/300",
+        "https://picsum.photos/310",
+        "https://picsum.photos/400",
+        "https://picsum.photos/500"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "공유오피스 B",
+      "locaion": "서울 00로 13길",
+      "picture": [
+        "picture1의 경로",
+        "picture2의 경로",
+        "picture3의 경로",
+        "picture4의 경로",
+        "picture5의 경로"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "오피스C",
+      "locaion": "서울 테헤란로 10",
+      "picture": [
+        "picture1의 경로",
+        "picture2의 경로",
+        "picture3의 경로",
+        "picture4의 경로",
+        "picture5의 경로"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "부산점 D",
+      "locaion": "부산 중앙대로 34",
+      "picture": [
+        "picture1의 경로",
+        "picture2의 경로",
+        "picture3의 경로",
+        "picture4의 경로",
+        "picture5의 경로"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "대구점 E",
+      "locaion": "대구점 EEE 13",
+      "picture": [
+        "picture1의 경로",
+        "picture2의 경로",
+        "picture3의 경로",
+        "picture4의 경로",
+        "picture5의 경로"
+      ]
+    }
+  ],
+  "pageInfo": {
+    "currentPage": 1,
+    "pageSize": 10,
+    "totalElement": 20,
+    "totalPages": 2
+  }
+}
