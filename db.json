@@ -1,6 +1,19 @@
 {
   "myOffice": {
-    "data": [],
+    "data": [
+      {
+        "id": 1,
+        "name": "첫번째 지점",
+        "locaion": "가나다라마바사",
+        "picture": ["https://picsum.photos/320"]
+      },
+      {
+        "id": 2,
+        "name": "두번째 지점",
+        "locaion": "위치입니다.",
+        "picture": ["https://picsum.photos/320"]
+      }
+    ],
     "pageInfo": {
       "currentPage": 1,
       "pageSize": 10,
