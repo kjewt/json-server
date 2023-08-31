@@ -1,0 +1,33 @@
+{
+  "Reviews": [
+    {
+      "id": 1,
+      "createDate": "23-8-23",
+      "reviewer": "이용자1",
+      "rating": 4.5,
+      "content": "관리가 잘 됩니다. 첫번째 리뷰"
+    },
+    {
+      "id": 2,
+      "createDate": "23-8-24",
+      "reviewer": "이용자2",
+      "rating": 4,
+      "content": "방음이 안 되는 것 빼고는 다 좋아요. 두번째 리뷰"
+    },
+    {
+      "id": 3,
+      "createDate": "23-8-26",
+      "reviewer": "이용자3",
+      "rating": 5,
+      "content": "모두 만족스러워요. 세번째 리뷰"
+    }
+  ],
+  "PageInfo": [
+    {
+      "currentPage": 1,
+      "pageSize": 10,
+      "totalElement": 4,
+      "totalPages": 1
+    }
+  ]
+}
