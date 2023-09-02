@@ -5,13 +5,23 @@
         "id": 1,
         "name": "첫번째 지점",
         "locaion": "가나다라마바사",
-        "picture": ["https://picsum.photos/320"]
+        "picture": [
+          "https://picsum.photos/320",
+          "https://picsum.photos/350",
+          "https://picsum.photos/400",
+          "https://picsum.photos/200",
+          "https://picsum.photos/250"
+        ]
       },
       {
         "id": 2,
         "name": "두번째 지점",
         "locaion": "위치입니다.",
-        "picture": ["https://picsum.photos/320"]
+        "picture": [
+          "https://picsum.photos/320",
+          "https://picsum.photos/350",
+          "https://picsum.photos/400"
+        ]
       }
     ],
     "pageInfo": {
